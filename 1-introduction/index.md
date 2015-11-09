@@ -2,8 +2,8 @@
 layout: main
 title: "1. An introduction to Discovery"
 ---
-video from Leisa
 
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/k3DNy06Ddvg" frameborder="0" allowfullscreen></iframe>
 
 Discovery is the first stage of the service design and delivery process.
 
