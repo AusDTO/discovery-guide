@@ -4,6 +4,7 @@ title: "1. An introduction to Discovery"
 ---
 video from Leisa
 
+
 Discovery is the first stage of the service design and delivery process.
 
 The purpose of Discovery is to help the team get an understanding of the problems they are setting out to address in the service delivery by understanding:
@@ -22,7 +23,7 @@ You'll need to understand how the service is currently being delivered, looking 
 
 If there are any obvious technical, legislative or other constraints relating to the service these should be noted in the discovery phase too.
 
-## 1.1. What discovery is not
+## 1.0.1. What discovery is not
 
 Discovery is not about prototyping and testing: you'll do this during the Alpha stage.
 
@@ -30,13 +31,13 @@ Discovery is not about looking at only a single system or interaction - it has t
 
 Discovery is not about validating ideas you already have about the problems and the solutions for your project.
 
-## 1.2. The duration of discovery
+## 1.0.2. The duration of discovery
 
 There's no one-size-fits-all duration for a Discovery, however, many teams spend between four and six weeks.
 
 It's important that the team can commit their full-time to the Discovery, and not be split with other projects. When setting up the team, you should aim to retain the same team members (in the same roles) throughout all Service Design and Delivery phases. The intent of this it to provide continuity and to ensure the successful delivery of service.
 
-## 1.3. The roles needed
+## 1.0.3. The roles needed
 
 The team needs the following roles:
 

@@ -1,16 +1,17 @@
 nav {
-  background: #eee;
+  background: #f7f7f7;
+  padding: 0px 20px;
 
   @media (min-width: 800px) {
     position: absolute;
     top: 0px;
     left: 0px;
     width: 230px;
-    padding-left: 20px;
+    padding: 0 0 20px 20px;
   }
 }
 
-nav ul {
+nav > ul {
   padding: 20px 0;
 
   li {
@@ -20,8 +21,18 @@ nav ul {
 
   > li {
     padding: 5px 0px;
-  }
-  > li > ul {
-    padding: 5px 15px;
+
+    > a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    > ul {
+      padding: 2px 15px;
+      > li {
+        font-size: 14px;
+      }
+    }
   }
 }
