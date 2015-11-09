@@ -1,0 +1,27 @@
+nav {
+  background: #eee;
+
+  @media (min-width: 800px) {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    padding-left: 20px;
+  }
+}
+
+nav ul {
+  padding: 20px 0;
+
+  li {
+    list-style: none;
+    font-size: 15px;
+  }
+
+  > li {
+    padding: 5px 0px;
+  }
+  > li > ul {
+    padding: 5px 15px;
+  }
+}

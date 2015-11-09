@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body {
+  background: #fdfdfd;
+}
+
+header {
+  background: $primary-colour;
+  padding: 14px;
+}
+
+main {
+  position: relative;
+
+  article {
+    padding: 20px;
+
+    @media (min-width: 800px) {
+      width: 60%;
+      margin: 0 0 0 250px;
+    }
+  }
+}

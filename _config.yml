@@ -1,0 +1,6 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+baseurl: /discovery-guide
+kramdown:
+  input: GFM
