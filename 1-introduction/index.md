@@ -31,6 +31,8 @@ Discovery is not about looking at only a single system or interaction - it has t
 
 Discovery is not about validating ideas you already have about the problems and the solutions for your project.
 
+![]({{ site.baseurl }}/images/1/shortcuts.jpg)
+
 ## 1.0.2. The duration of discovery
 
 There's no one-size-fits-all duration for a Discovery, however, many teams spend between four and six weeks.
