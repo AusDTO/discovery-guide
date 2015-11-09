@@ -8,6 +8,7 @@ header {
   h1 {
     font-size: 18px;
     padding: 0;
+    vertical-align: middle;
 
     a {
       color: #fff;
@@ -17,6 +18,16 @@ header {
         text-decoration: underline;
       }
     }
+  }
+
+  .draft {
+    background: #fff;
+    font-size: 13px;
+    padding: 1px 4px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0 0 0 4px;
+    vertical-align: middle;
   }
 }
 
