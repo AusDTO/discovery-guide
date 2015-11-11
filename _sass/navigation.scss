@@ -7,7 +7,7 @@ nav {
     top: 0px;
     left: 0px;
     width: 230px;
-    padding: 0 0 20px 20px;
+    padding: 0 0 20px 0;
   }
 }
 
@@ -20,18 +20,35 @@ nav > ul {
   }
 
   > li {
-    padding: 5px 0px;
+    padding: 0px;
 
     > a {
+      display: block;
       color: #333;
       text-decoration: none;
       font-weight: bold;
+      padding: 5px 20px;
+
+      &:hover {
+        background: #eee;
+      }
     }
 
     > ul {
-      padding: 2px 15px;
+      padding: 0 0 10px;
+
       > li {
         font-size: 14px;
+        line-height: 19px;
+
+        a {
+          display: block;
+          padding: 1px 10px 1px 35px;
+
+          &:hover {
+            background: #eee;
+          }
+        }
       }
     }
   }

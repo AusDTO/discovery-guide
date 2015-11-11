@@ -3,9 +3,10 @@ layout: main
 title: Index
 ---
 
-This is a work-in-progress handbook. It's to help teams going through the
-Discovery stage of the service delivery process.
+This is a handbook to help teams going through the Discovery stage of the service delivery process. We've written it from our experience helping agencies run discoveries as part of our Digital Transformation Programme.
 
-Some of it is not yet complete.
+We recommend starting at [the introduction]({{ site.baseurl }}/1-introduction/).
 
-To make a change to it, please submit a pull request on the [GitHub repository](https://github.com/ausdto/discovery-guide).
+This guide will evolve over time as we learn more about the things that work (and those that don't).
+
+We welcome any feedback and suggestions from your own experiences. To make a change, please raise an issue or submit a pull request on our [GitHub repository](https://github.com/ausdto/discovery-guide).
