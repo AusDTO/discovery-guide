@@ -10,6 +10,7 @@ The recommended team composition for the Alpha phase is:
 - Product Manager
 - Delivery Manager
 - Technical Architect
+- Service Designer
 - Interaction Designer
 - User Researcher
 - Front-end Developer
