@@ -7,7 +7,7 @@ title: "1. An introduction to Discovery"
 
 Discovery is the first stage of the service design and delivery process.
 
-The purpose of Discovery is to help the team get an understanding of the problems they are setting out to address in the service delivery by understanding:
+The purpose of Discovery is to help the team get an understanding of the problems they are setting out to address in the service by understanding:
 
 - what people are really trying to do when they encounter your service (eg. planning to travel abroad, not just get a passport),
 - what the current experience is for users, and
