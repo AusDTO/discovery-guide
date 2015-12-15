@@ -42,3 +42,5 @@ We recommend reading [the primer on Wardley Mapping](http://blog.gardeviance.org
 An example Wardley Map for a television company is included below:
 
 <img src="{{ site.baseurl }}/images/2/wardley-map.png" class="full-width">
+
+[Next Section: Finishing Discovery](/3-finishing-discovery)
