@@ -62,3 +62,5 @@ Capturing evidence as you go along will help you to know when you’re ready for
 
 <img src="{{ site.baseurl }}/images/3/service-standard-wall.jpg" class="full-width">
 <span class="caption">A Kanban wall for the Digital Service Standard in practice</span>
+
+[Next: Moving into Alpha](3-4-moving-into-alpha.md)
