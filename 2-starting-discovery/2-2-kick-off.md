@@ -24,14 +24,16 @@ A good kick-off should:
   - where you’ll be based
   - who will be working on what
 
-<img src="{{ site.baseurl }}/images/2/kick-off-canvas.jpg" class="full-width">
+<img src="{{ site.baseurl }}/images/2/kick-off-canvas.jpg" class="full-width" alt="team looking at discovery canvas">
 <span class="caption">The team walk through the Discovery Canvas.</span>
 
-<img src="{{ site.baseurl }}/images/2/kick-off-problem-statement.jpg" class="full-width">
+<img src="{{ site.baseurl }}/images/2/kick-off-problem-statement.jpg" class="full-width" alt="product manager explaining problem">
 <span class="caption">The Product Manager talks the team through the problem statement.</span>
 
-<img src="{{ site.baseurl }}/images/2/discovery-canvas.jpg" class="full-width">
+<img src="{{ site.baseurl }}/images/2/discovery-canvas.jpg" class="full-width" alt="discovery canvas full of sticky notes">
 <span class="caption">A populated Discovery Canvas.</span>
 
-<img src="{{ site.baseurl }}/images/2/vision-drivers-1.jpg" class="half-width"><img src="{{ site.baseurl }}/images/2/vision-drivers-2.jpg" class="half-width">
+<img src="{{ site.baseurl }}/images/2/vision-drivers-1.jpg" class="half-width" alt="vision and drivers"><img src="{{ site.baseurl }}/images/2/vision-drivers-2.jpg" class="half-width" alt="vision and drivers">
 <span class="caption">Sample Vision and Drivers.</span>
+
+[Next: Ways of working](2-3-ways-of-working.md)

@@ -23,7 +23,7 @@ It’s likely that your service map will go through several iterations - feedbac
 
 The service map below was created by the UK’s Ministry of Justice, to show the activities involved in the end-to-end criminal justice process. There’s [a larger version on Flickr](https://www.flickr.com/photos/gdsteam/20351061738/).
 
-<img src="{{ site.baseurl }}/images/2/service-map.jpg" class="full-width">
+<a href="https://www.flickr.com/photos/gdsteam/20351061738/"><img src="{{ site.baseurl }}/images/2/service-map.jpg" class="full-width" alt="service map"></a>
 
 ## 2.5.3. Wardley map
 
@@ -41,4 +41,6 @@ We recommend reading [the primer on Wardley Mapping](http://blog.gardeviance.org
 
 An example Wardley Map for a television company is included below:
 
-<img src="{{ site.baseurl }}/images/2/wardley-map.png" class="full-width">
+<img src="{{ site.baseurl }}/images/2/wardley-map.png" class="full-width" alt="wardley map">
+
+[Next section: Finishing Discovery](/3-finishing-discovery)

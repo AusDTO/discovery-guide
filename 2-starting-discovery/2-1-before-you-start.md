@@ -13,5 +13,7 @@ We’d recommend that you:
 - find a good, open space for the team to co-locate during Discovery - one with plenty of wall space and whiteboards - and bring lots of stationery: post-it notes, index cards and sharpie markers are a must
 - check that all the building facilities are ready for the team: this includes access to the building, wifi, IT systems and printers
 
-<img src="{{ site.baseurl }}/images/2/workspace.jpg" class="full-width">
+<img src="{{ site.baseurl }}/images/2/workspace.jpg" class="full-width" alt="example workspace">
 <span class="caption">An example workspace.</span>
+
+[Next: Kick-off](2-2-kick-off.md)
