@@ -15,3 +15,5 @@ We’d recommend that you:
 
 <img src="{{ site.baseurl }}/images/2/workspace.jpg" class="full-width" alt="example workspace">
 <span class="caption">An example workspace.</span>
+
+[Next: Kick-off](2-2-kick-off)
