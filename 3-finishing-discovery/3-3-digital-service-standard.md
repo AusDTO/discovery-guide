@@ -60,7 +60,7 @@ Maintaining a Digital Service Standard Kanban board helps the team to keep track
 
 Capturing evidence as you go along will help you to know when you’re ready for the assessment, and make it easier to prepare.
 
-<img src="{{ site.baseurl }}/images/3/service-standard-wall.jpg" class="full-width">
+<img src="{{ site.baseurl }}/images/3/service-standard-wall.jpg" class="full-width" alt="kanban wall">
 <span class="caption">A Kanban wall for the Digital Service Standard in practice</span>
 
 [Next: Moving into Alpha](3-4-moving-into-alpha.md)
