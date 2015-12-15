@@ -56,3 +56,5 @@ Some projects may also need:
 - an information architect
 
 Support from subject matter experts and other stakeholders throughout the Discovery is also a lot of help.
+
+[Starting Discovery](/2-starting-discovery)
