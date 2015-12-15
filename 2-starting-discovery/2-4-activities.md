@@ -66,4 +66,4 @@ When exploring the flow of data between systems, the team should consider:
 
 Mapping these systems, data and responsible agencies against the service map will give the team a complete view of where user needs are currently being met by technology.
 
-[Next: Artefacts](2-5-artefacts.md)
+[Next: Artefacts](2-5-artefacts.html)

@@ -12,4 +12,4 @@ Your discovery document should include:
 - the major findings that emerged from user research and the technology discovery
 - recommendations and hypotheses you're going to test at alpha
 
-[Next: Digital Service Standard](3-3-digital-service-standard.md)
+[Next: Digital Service Standard](3-3-digital-service-standard.html)

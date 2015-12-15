@@ -36,4 +36,4 @@ A good kick-off should:
 <img src="{{ site.baseurl }}/images/2/vision-drivers-1.jpg" class="half-width" alt="vision and drivers"><img src="{{ site.baseurl }}/images/2/vision-drivers-2.jpg" class="half-width" alt="vision and drivers">
 <span class="caption">Sample Vision and Drivers.</span>
 
-[Next: Ways of working](2-3-ways-of-working.md)
+[Next: Ways of working](2-3-ways-of-working.html)

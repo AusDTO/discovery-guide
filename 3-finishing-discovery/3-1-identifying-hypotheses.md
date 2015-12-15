@@ -9,4 +9,4 @@ By defining your hypothesis in the Discovery phase, you give yourself the opport
 
 It is important to note that a hypothesis is not the Minimum Viable Product (MVP).  The scope of the MVP is defined at the end of the Alpha phase, and not before then.  
 
-[Next: Reporting Findings](3-2-reporting-findings.md)
+[Next: Reporting Findings](3-2-reporting-findings.html)

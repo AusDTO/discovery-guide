@@ -48,4 +48,4 @@ Techniques to represent the work include:
 
 Depending on the team, you may also want to track team tasks using an online tool like JIRA or Trello.
 
-[Next: Activities](2-4-activities.md)
+[Next: Activities](2-4-activities.html)
