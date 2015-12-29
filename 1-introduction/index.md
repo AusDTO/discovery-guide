@@ -57,4 +57,4 @@ Some projects may also need:
 
 Support from subject matter experts and other stakeholders throughout the Discovery is also a lot of help.
 
-[Next section: Starting Discovery](/2-starting-discovery)
+[Next section: Starting Discovery](../2-starting-discovery)
