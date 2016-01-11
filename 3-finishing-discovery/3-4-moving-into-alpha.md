@@ -1,7 +1,9 @@
 ---
 layout: main
-title: '3.4. Moving into Alpha'
+title: 3.4. Moving into Alpha
+published: true
 ---
+
 As you move through the Service Design and Delivery phases, the team will naturally expand and contract, ensuring you have the right skill composition for each phase.
 
 The recommended team composition for the Alpha phase is:
@@ -30,4 +32,4 @@ Activities you'll carry out during Alpha:
 
 At the end of the Alpha phase, you'll have explored multiple prototypes, evaluating each solution against user needs, tested technical integrations and endpoints.  You'll use this understanding to define the MVP scope for your service.  
 
-[Next section: Further Reading](/4-further-reading)
+[Next section: Further Reading]({{ site.baseurl }}/4-further-reading)
