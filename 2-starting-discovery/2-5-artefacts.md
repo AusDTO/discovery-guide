@@ -1,7 +1,9 @@
 ---
 layout: main
-title: '2.5. Artefacts to produce'
+title: 2.5. Artefacts to produce
+published: true
 ---
+
 
 ## 2.5.1. User needs
 
@@ -43,4 +45,4 @@ An example Wardley Map for a television company is included below:
 
 <img src="{{ site.baseurl }}/images/2/wardley-map.png" class="full-width" alt="wardley map">
 
-[Next section: Finishing Discovery](/3-finishing-discovery)
+[Next section: Finishing Discovery]({{ site.baseurl }}/3-finishing-discovery)
