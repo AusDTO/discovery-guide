@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '3.3. Assessing against the Digital Service Standard'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/3-finishing-discovery/3-3-digital-service-standard.html
 ---
 
 At the end of Discovery you should be able to demonstrate that you meet the first few criteria of the Digital Service Standard.

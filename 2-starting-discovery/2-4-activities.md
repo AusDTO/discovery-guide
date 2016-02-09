@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '2.4. Activities to do'
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/2-4-activities.html
 ---
 
 ## 2.4.1. Researching with users of the service

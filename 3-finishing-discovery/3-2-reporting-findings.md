@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '3.2. Reporting back findings'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/3-finishing-discovery/3-2-reporting-findings.html
 ---
 
 At the end of discovery, you should report back on your findings in a discovery document. This can be shared with senior stakeholders and across government.

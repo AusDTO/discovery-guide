@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '4. Further reading and acknowledgements'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/4-further-reading/
 ---
 
 This guide has been informed by, and uses content from:

@@ -1,7 +1,8 @@
 ---
 layout: main
-title: 3.4. Moving into Alpha
-published: true
+title: '3.4. Moving into Alpha'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/3-finishing-discovery/3-4-moving-into-alpha.html
 ---
 
 As you move through the Service Design and Delivery phases, the team will naturally expand and contract, ensuring you have the right skill composition for each phase.

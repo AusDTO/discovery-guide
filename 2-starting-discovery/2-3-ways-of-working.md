@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '2.3. Ways of working'
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/2-3-ways-of-working.html
 ---
 
 The team will use Agile techniques and practices, ensuring collaboration, planning and feedback are iteratively integrated throughout the weeks of Discovery.

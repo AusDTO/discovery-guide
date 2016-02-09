@@ -1,6 +1,8 @@
 ---
 layout: main
 title: "2.1. Before you start"
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/2-1-before-you-start.html
 ---
 
 Before starting a discovery, take some time to prepare so that you can make the most of the time during discovery.

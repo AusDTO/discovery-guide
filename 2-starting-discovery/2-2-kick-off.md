@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '2.2. The kick off'
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/2-2-kick-off.html
 ---
 
 The Discovery starts with a kick-off session, which includes the whole team, plus subject matter experts and business owners. It’s helpful for senior stakeholders to drop in for a short while too. Kicking off a Discovery is typically a collection of high-energy collaborative workshops over the course of 2 days.

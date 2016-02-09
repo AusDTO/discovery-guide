@@ -1,7 +1,8 @@
 ---
 layout: main
-title: 2.5. Artefacts to produce
-published: true
+title: '2.5. Artefacts to produce'
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/2-5-artefacts.html
 ---
 
 

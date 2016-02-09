@@ -1,6 +1,8 @@
 ---
 layout: main
 title: '3. Finishing Discovery'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/3-finishing-discovery/
 ---
 
 - [3.1. Identifying the hypotheses to test](3-1-identifying-hypotheses.html)

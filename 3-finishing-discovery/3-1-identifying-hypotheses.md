@@ -1,9 +1,11 @@
 ---
 layout: main
 title: '3.1. Identifying the hypotheses to test'
+redirect_to:
+  - http://ausdto.github.io/service-handbook/discovery/3-finishing-discovery/3-1-identifying-hypotheses.html
 ---
 
-At the end of the Discovery phase, you'll have a good understanding of the user’s needs, and the service landscape.  You should use this understanding to formulate your hypothesis.  Your hypothesis should define the target state for your service. 
+At the end of the Discovery phase, you'll have a good understanding of the user’s needs, and the service landscape.  You should use this understanding to formulate your hypothesis.  Your hypothesis should define the target state for your service.
 
 By defining your hypothesis in the Discovery phase, you give yourself the opportunity to test what you think the solution to your problem is before developing the actual solution. During the Alpha phase, the hypothesis will be tested with a number of possible solutions.  
 

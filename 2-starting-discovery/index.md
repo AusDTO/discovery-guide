@@ -1,6 +1,8 @@
 ---
 layout: main
 title: "2. Starting discovery"
+redirect_to:
+  - https://ausdto.github.io/service-handbook/discovery/2-starting-discovery/
 ---
 
 - [2.1. Before you start](2-1-before-you-start.html)
